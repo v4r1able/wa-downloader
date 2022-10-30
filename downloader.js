@@ -1,6 +1,13 @@
 /* github.com/v4r1able */
 var image = document.querySelector("img[crossorigin=anonymous]");
 var video = document.querySelector("video");
+
+if(Array.isArray(image)) {
+    var image = image[image.length-1];
+} else if(Array.isArray(video)) {
+    var video = video[video.length-1];
+}
+
 if(image!=undefined) {
 var href = image.src;
 var download = "wadownload.png";
