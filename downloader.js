@@ -1,4 +1,5 @@
 /* github.com/v4r1able */
+/* https://chrome.google.com/webstore/detail/whatsapp-photo-and-video/cbbbmhlneplmjaellbaoenpkgckhikme */
 var image = document.querySelector("img[crossorigin=anonymous]");
 var video = document.querySelector("video");
 
