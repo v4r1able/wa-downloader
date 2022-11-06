@@ -14,3 +14,7 @@ Extension: https://chrome.google.com/webstore/detail/whatsapp-photo-and-video/cb
 Anlatım: https://leventemre.com/yazi/javascript/wa-downloader
 
 Chrome Uzantısı: https://chrome.google.com/webstore/detail/whatsapp-photo-and-video/cbbbmhlneplmjaellbaoenpkgckhikme
+
+# Eklenti için kullanım videosu
+
+[![example video](https://img.youtube.com/vi/0euLt7TwsxE/0.jpg)](https://www.youtube.com/watch?v=0euLt7TwsxE)
